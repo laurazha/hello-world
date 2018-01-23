@@ -1,4 +1,4 @@
-Assignment N Grade:
+Assignment N: 10/10
 
 | Question | Grade | Notes|
 | --- | --- | --- |
@@ -11,5 +11,3 @@ Assignment N Grade:
 | Ex 1.2-1 | 10/10 | |
 | Ex 1.2-1 | 10/10 | |
 
-Total: 10/10
-Grader: Laura
