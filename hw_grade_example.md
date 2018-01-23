@@ -28,13 +28,13 @@
 
 -----------------------------------
 
-bi, anqi: 00/55 <br />
-chang, ke: 00/55 <br />
+bi, anqi: 55/55 <br />
+chang, ke: 41.5/55 <br />
 chen, xianyin: 54/55 <br />
 jiang, can: 47/55 <br />
-xi, zhenyuan: 00/55 <br />
+xi, zhenyuan: 54.5/55 <br />
 xu, tao: 50.5/55 <br />
-zhang, yiran: 00/55 <br />
+zhang, yiran: 53.5/55 <br />
 zheng, zhilong: 50/55 <br />
 
 -----------------------------------
