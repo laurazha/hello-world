@@ -1,41 +1,33 @@
-**Assignment 1:**
+**Assignment 2:**
 
 | Question | Grade | Notes|
 | :------- | :---: | :--- |
-| Ex 1.2-2 | 4/4 | |
-| Ex 1.2-3 | 4/4 | |
-| Ex 2.1-1 | 6/6 | |
-| Ex 2.1-2 | 4/4 | |
-| Ex 2.1-3 | 6/6 | |
-| Ex 2.2-1 | 3/3 | |
-| Ex 2.2-2 | 8/8 | |
-| Pr 1-1 | 20/20 | |
-| **Total** | **55/55** | Good! |
------------------------------------------
-**Assignment 1:**
+| Ex 2.3-1 | 5/5 | |
+| Ex 2.3-2 | 5/5 | |
+| Ex 2.3-4 | 4/4 | |
+| Ex 3.1-3 | 2/2 | |
+| Ex 3.1-4 | 4/4 | |
+| Ex 3.1-6 | 4/4 | |
+| Pr 2-1 a | 4/4 | |
+| Pr 2-1 b | 5/5 | |
+| Pr 2-1 c | 3/3 | |
+| Pr 2-1 d | 3/3 | |
+| **Total** | **39/39** | Good! |
 
-| Question | Grade | Notes|
-| :------- | :---: | :--- |
-| Ex 1.2-2 | 4/4 | |
-| Ex 1.2-3 | 4/4 | |
-| Ex 2.1-1 | 6/6 | |
-| Ex 2.1-2 | 4/4 | |
-| Ex 2.1-3 | 5.5/6 | The invariant should be a statement like this: A[1..i-1] consists of elements that are different than v.|
-| Ex 2.2-1 | 3/3 | |
-| Ex 2.2-2 | 8/8 | |
-| Pr 1-1 | 16/20 | - Columns [1 year] and [1 century] of the first 4 rows were computed incorrectly.<br />- For Row [n^2], [n^3], [2^n], you should only round **down** because we want a problem to be solved within time t. |
-| **Total** | **50.5/55** | Good! |
+Grader: Laura (zha.xi@husky.neu.edu)<br/>
+If you have any questions, please don't hesitate to come to TA office hours. <br/>
+We want you to use our time and clear any doubts in your study!
 
 -----------------------------------
 
-bi, anqi: 55/55 <br />
-chang, ke: 41.5/55 <br />
-chen, xianyin: 54/55 <br />
-jiang, can: 47/55 <br />
-xi, zhenyuan: 54.5/55 <br />
-xu, tao: 50.5/55 <br />
-zhang, yiran: 53.5/55 <br />
-zheng, zhilong: 50/55 <br />
+bi, anqi: 0/39 <br/>
+chang, ke: 38/39 <br/>
+chen, xianyin: 39/39 <br/>
+jiang, can: 21/39 <br/>
+xi, zhenyuan: 39/39 <br/>
+xu, tao: 37/39 <br/>
+zhang, yiran: 39/39 <br/>
+zheng, zhilong: 38/39 <br/>
 
 -----------------------------------
 // sort by last name
@@ -48,6 +40,4 @@ sugarlade0401_sp18 ** Yiran Zhang
 abi_sp18 ** Anqi Bi
 stephenxi_sp18 ** Zhenyuan Xi
 
-buck, joe: 8.5/10
-smith, jane: 10/10
-washington, george: 6/10
+
