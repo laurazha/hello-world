@@ -1,18 +1,18 @@
-**Assignment 2:**
+**Assignment 3:**
 
 | Question | Grade | Notes|
 | :------- | :---: | :--- |
-| Ex 2.3-1 | 5/5 | |
-| Ex 2.3-2 | 5/5 | |
-| Ex 2.3-4 | 4/4 | |
-| Ex 3.1-3 | 2/2 | |
-| Ex 3.1-4 | 4/4 | |
-| Ex 3.1-6 | 4/4 | |
-| Pr 2-1 a | 4/4 | |
-| Pr 2-1 b | 5/5 | |
-| Pr 2-1 c | 3/3 | |
-| Pr 2-1 d | 3/3 | |
-| **Total** | **39/39** | Good! |
+| Ex 4.1-1 | 3/3 | |
+| Ex 4.1-2 | 5/5 | |
+| Ex 4.3-1 | 4/4 | |
+| Ex 4.3-2 | 4/4 | |
+| Ex 4.3-6 | 4/4 | |
+| Ex 4.4-5 | 6/6 | |
+| Ex 4.4-7 | 5/5 | |
+| Ex 4.5-3 | 4/4 | |
+| Ex 4.5-4 | 6/6 | |
+| Pr 4-1 | 21/21 | |
+| **Total** | **62/62** | Good! |
 
 Grader: Laura (zha.xi@husky.neu.edu)<br/>
 If you have any questions, please don't hesitate to come to TA office hours. <br/>
@@ -20,14 +20,14 @@ We want you to use our time and clear any doubts in your study!
 
 -----------------------------------
 
-bi, anqi: 0/39 <br/>
-chang, ke: 38/39 <br/>
-chen, xianyin: 39/39 <br/>
-jiang, can: 21/39 <br/>
-xi, zhenyuan: 39/39 <br/>
-xu, tao: 37/39 <br/>
-zhang, yiran: 39/39 <br/>
-zheng, zhilong: 38/39 <br/>
+bi, anqi: 0/62 <br/>
+chang, ke: 0/62 <br/>
+chen, xianyin: 0/62 <br/>
+jiang, can: 0/62 <br/>
+xi, zhenyuan: 0/62 <br/>
+xu, tao: 0/62 <br/>
+zhang, yiran: 0/62 <br/>
+zheng, zhilong: 0/62 <br/>
 
 -----------------------------------
 // sort by last name
