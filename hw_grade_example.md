@@ -20,14 +20,14 @@ We want you to use our time and clear any doubts in your study!
 
 -----------------------------------
 
-bi, anqi: 0/62 <br/>
-chang, ke: 0/62 <br/>
-chen, xianyin: 0/62 <br/>
-jiang, can: 0/62 <br/>
-xi, zhenyuan: 0/62 <br/>
-xu, tao: 0/62 <br/>
-zhang, yiran: 0/62 <br/>
-zheng, zhilong: 0/62 <br/>
+bi, anqi: 59/62 <br/>
+chang, ke: 19/62 (Missing the last five questions) <br/>
+chen, xianyin: 62/62 <br/>
+jiang, can: 57/62 <br/>
+xi, zhenyuan: 59/62 <br/>
+xu, tao: 61/62 <br/>
+zhang, yiran: 38/62 (Missing the last problem) <br/>
+zheng, zhilong: 53/62 <br/>
 
 -----------------------------------
 // sort by last name
