@@ -1,18 +1,24 @@
-**Assignment 3:**
+**Assignment 4:**
 
 | Question | Grade | Notes|
 | :------- | :---: | :--- |
-| Ex 4.1-1 | 3/3 | |
-| Ex 4.1-2 | 5/5 | |
-| Ex 4.3-1 | 4/4 | |
-| Ex 4.3-2 | 4/4 | |
-| Ex 4.3-6 | 4/4 | |
-| Ex 4.4-5 | 6/6 | |
-| Ex 4.4-7 | 5/5 | |
-| Ex 4.5-3 | 4/4 | |
-| Ex 4.5-4 | 6/6 | |
-| Pr 4-1 | 21/21 | |
-| **Total** | **62/62** | Good! |
+| Ex 6.1-1 | 3/3 | |
+| Ex 6.1-3 | 2/2 | |
+| Ex 6.1-6 | 2/2 | |
+| Ex 6.2-1 | 4/4 | |
+| Ex 6.2-2 | 5/5 | |
+| Ex 6.2-4 | 2/2 | |
+| Ex 6.3-1 | 5/5 | |
+| Ex 6.3-2 | 3/3 | |
+| Ex 6.4-1 | 6/6 | |
+| Ex 6.4-2 | 5/5 | |
+| Ex 7.1-1 | 6/6 | |
+| Ex 7.1-3 | 3/3 | |
+| Ex 7.1-4 | 3/3 | |
+| Ex 7.2-1 | 4/4 | |
+| Ex 7.2-3 | 3/3 | |
+| Ex 7.2-4 | 3/3 | |
+| **Total** | **59/59** | Good! |
 
 Grader: Laura (zha.xi@husky.neu.edu)<br/>
 If you have any questions, please don't hesitate to come to TA office hours. <br/>
@@ -20,14 +26,14 @@ We want you to use our time and clear any doubts in your study!
 
 -----------------------------------
 
-bi, anqi: 59/62 <br/>
-chang, ke: 19/62 (Missing the last five questions) <br/>
-chen, xianyin: 62/62 <br/>
-jiang, can: 57/62 <br/>
-xi, zhenyuan: 59/62 <br/>
-xu, tao: 61/62 <br/>
-zhang, yiran: 38/62 (Missing the last problem) <br/>
-zheng, zhilong: 53/62 <br/>
+bi, anqi: 56/59 <br/>
+chang, ke: 32/59 (told me he would submit the second half later)<br/>
+chen, xianyin: 59/59 <br/>
+jiang, can: 59/59 <br/>
+xi, zhenyuan: 59/59 <br/>
+xu, tao: 59/59 <br/>
+zhang, yiran: 59/59 <br/>
+zheng, zhilong: 57/59 <br/>
 
 -----------------------------------
 // sort by last name
