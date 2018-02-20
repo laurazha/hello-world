@@ -23,7 +23,7 @@ chang, ke: 40/40 <br/>
 chen, xianyin: 40/40 <br/>
 jiang, can: 40/40 <br/>
 xi, zhenyuan: 40/40 <br/>
-xu, tao: 0/40 (did not submit yet) <br/>
+xu, tao: 35/40 <br/>
 zhang, yiran: 40/40 <br/>
 zheng, zhilong: 40/40 <br/>
 
