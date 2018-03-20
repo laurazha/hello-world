@@ -1,3 +1,11 @@
+**Homework 6**<br/>
+<br/>
+program1: 12/12<br/>
+<br/>
+program2: 18/18 <br/>
+<br/>
+total:    30/30
+
 **Assignment 5:**
 
 | Question | Grade | Notes|
@@ -17,18 +25,20 @@ If you have any questions, please don't hesitate to come to TA office hours. <br
 We want you to use our time and clear any doubts in your study!
 
 -----------------------------------
-
-bi, anqi: ??/40 (cannot decide yet) <br/>
-chang, ke: 40/40 <br/>
-chen, xianyin: 40/40 <br/>
-jiang, can: 40/40 <br/>
-xi, zhenyuan: 40/40 <br/>
-xu, tao: 35/40 <br/>
-zhang, yiran: 40/40 <br/>
-zheng, zhilong: 40/40 <br/>
+TA: Laura Zha <br/> Homework 6<br/>
+-
+bi, anqi: 28/30 <br/>
+chang, ke: 25/30 <br/>
+chen, xianyin: 29/30 <br/>
+liu, tianyu: 29/30 <br/>
+jiang, can: 26/30 <br/>
+xi, zhenyuan: 30/30 <br/>
+xu, tao: 27/30 <br/>
+zhang, yiran: 30/30 <br/>
+zheng, zhilong: 29/30 <br/>
 
 -----------------------------------
-// sort by last name
+// should sort by last name
 xianyin_sp18 ** Xianyin Chen
 brilliantjc_sp18 ** Can Jiang
 taoxu_sp18 ** Tao Xu
@@ -37,5 +47,7 @@ changke1708_sp18 ** Ke Chang
 sugarlade0401_sp18 ** Yiran Zhang
 abi_sp18 ** Anqi Bi
 stephenxi_sp18 ** Zhenyuan Xi
+tianyuliu_sp18 ** Tianyu Liu
+
 
 
