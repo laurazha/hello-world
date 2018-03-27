@@ -1,10 +1,14 @@
-**Homework 6**<br/>
+**Homework 7**<br/>
 <br/>
-program1: 12/12<br/>
+program1: 16/16<br/>
 <br/>
-program2: 18/18 <br/>
+program2: 17/17 <br/>
 <br/>
-total:    30/30
+program3: 12/12 <br/>
+<br/>
+total:    43/43
+
+abc, abcd ab a.
 
 **Assignment 5:**
 
@@ -25,17 +29,17 @@ If you have any questions, please don't hesitate to come to TA office hours. <br
 We want you to use our time and clear any doubts in your study!
 
 -----------------------------------
-TA: Laura Zha <br/> Homework 6<br/>
+TA: Laura Zha <br/> Homework 7<br/>
 -
-bi, anqi: 28/30 <br/>
-chang, ke: 25/30 <br/>
-chen, xianyin: 29/30 <br/>
-liu, tianyu: 29/30 <br/>
-jiang, can: 26/30 <br/>
-xi, zhenyuan: 30/30 <br/>
-xu, tao: 27/30 <br/>
-zhang, yiran: 30/30 <br/>
-zheng, zhilong: 29/30 <br/>
+bi, anqi: 39/43 <br/>
+chang, ke: 40/43 <br/>
+chen, xianyin: 42/43 <br/>
+liu, tianyu: 40/43 <br/>
+jiang, can: 40/43 <br/>
+xi, zhenyuan: 42/43 <br/>
+xu, tao: 41/43 <br/>
+zhang, yiran: 40/43 <br/>
+zheng, zhilong: 40.5/43 <br/>
 
 -----------------------------------
 // should sort by last name
