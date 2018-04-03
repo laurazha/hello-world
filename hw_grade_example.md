@@ -8,6 +8,7 @@ piazza multithreading post: 5/5 <br/>
 <br/>
 total:    41/41
 
+except jc
 
 -----------------------------------
 TA: Laura Zha <br/> Homework 7<br/>
