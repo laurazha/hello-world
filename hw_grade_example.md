@@ -1,45 +1,27 @@
-**Homework 7**<br/>
+**Homework 8**<br/>
 <br/>
-program1: 16/16<br/>
+program1: 18/18<br/>
 <br/>
-program2: 17/17 <br/>
+program2: 18/18 <br/>
 <br/>
-program3: 12/12 <br/>
+piazza multithreading post: 5/5 <br/>
 <br/>
-total:    43/43
+total:    41/41
 
-abc, abcd ab a.
-
-**Assignment 5:**
-
-| Question | Grade | Notes|
-| :------- | :---: | :--- |
-| Ex 8.1-1 | 3/3 | |
-| Ex 8.1-3 | 6/6 | |
-| Ex 8.2-1 | 8/8 | |
-| Ex 8.2-2 | 3/3 | |
-| Ex 8.3-1 | 5/5 | |
-| Ex 8.3-3 | 6/6 | |
-| Ex 8.4-1 | 5/5 | |
-| Ex 8.4-2 | 4/4 | |
-| **Total** | **40/40** | Good! |
-
-Grader: Laura (zha.xi@husky.neu.edu)<br/>
-If you have any questions, please don't hesitate to come to TA office hours. <br/>
-We want you to use our time and clear any doubts in your study!
+except jc
 
 -----------------------------------
 TA: Laura Zha <br/> Homework 7<br/>
 -
-bi, anqi: 39/43 <br/>
-chang, ke: 40/43 <br/>
-chen, xianyin: 42/43 <br/>
-liu, tianyu: 40/43 <br/>
-jiang, can: 40/43 <br/>
-xi, zhenyuan: 42/43 <br/>
-xu, tao: 41/43 <br/>
-zhang, yiran: 40/43 <br/>
-zheng, zhilong: 40.5/43 <br/>
+bi, anqi: 39/41 <br/>
+chang, ke: 0/41 <br/>
+chen, xianyin: 41/41 <br/>
+liu, tianyu: 0/41 <br/>
+jiang, can: 31/41 <br/>
+xi, zhenyuan: 0/41 <br/>
+xu, tao: 40/41 <br/>
+zhang, yiran: 0/41 <br/>
+zheng, zhilong: 41/41 <br/>
 
 -----------------------------------
 // should sort by last name
