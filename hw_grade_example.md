@@ -1,10 +1,9 @@
 **Homework 9**<br/>
 <br/>
 program1: 24/26<br/>
+The compile executable must be named "program1". -1<br/>
 Should spawn the threads prior to reading the input in main. -2<br/>
 Memory leak. Don't forget to free before exiting with error in the middle of your program. -2<br/>
-Failed one test case with "segmentation fault". -2<br/>
-I've attached the test file. Run this query: ./program1 failed_test.txt 763 1 1<br/>
 <br/>
 program2: 10/10<br/>
 <br/>
@@ -17,22 +16,26 @@ valgrind --tool=memcheck --leak-check=yes ./program1 ../../../instructors_2018/w
 
 valgrind --tool=memcheck --leak-check=yes ./program1 ../../../instructors_2018/week11/program1_test_inputs/input3/test_data.txt 93 2 3 > result3
 
-valgrind --tool=memcheck --leak-check=yes ./program1 ../../../instructors_2018/week11/program1_test_inputs/input4/test_data.txt 763 1 1
+valgrind --tool=memcheck --leak-check=yes ./program1 ../../../instructors_2018/week11/program1_test_inputs/input4/test_data.txt 763 2 1
 
 100 scores and 18 years, and 7 fortdays and 2 days
 
+cp ../../../instructors_2018/week11/program1_test_inputs/input4/test_data.txt failed_test.txt
+
+**UPDATE: This test file has a size larger than the claimed size in arguments. But we don't require you to handle this. So we will add back the deducted 2 points.**<br/>
+
 -----------------------------------
-TA: Laura Zha <br/> Homework 8<br/>
+TA: Laura Zha <br/> Homework 9<br/>
 -
-bi, anqi: 31/36 <br/>
-chang, ke: 0/36 <br/>
+bi, anqi: 33/36 <br/>
+chang, ke: 32/36 <br/>
 chen, xianyin: 36/36 <br/>
-liu, tianyu: 0/36 <br/>
-jiang, can: 0/36 <br/>
-xi, zhenyuan: 32/36 <br/>
-xu, tao: 0/36 <br/>
-zhang, yiran: 0/36 <br/>
-zheng, zhilong: 0/36 <br/>
+liu, tianyu: 36/36 <br/>
+jiang, can: 33/36 <br/>
+xi, zhenyuan: 34/36 <br/>
+xu, tao: 33/36 <br/>
+zhang, yiran: 36/36 <br/>
+zheng, zhilong: 34/36 <br/>
 
 -----------------------------------
 // should sort by last name
