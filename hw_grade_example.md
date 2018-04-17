@@ -1,41 +1,28 @@
-**Homework 9**<br/>
+**Homework 10**<br/>
 <br/>
-program1: 24/26<br/>
-The compile executable must be named "program1". -1<br/>
-Should spawn the threads prior to reading the input in main. -2<br/>
-Memory leak. Don't forget to free before exiting with error in the middle of your program. -2<br/>
+program1: 13/13<br/>
+need to freeaddrinfo(). -1 <br/>
+server should keep open after one client is closed. -1 <br/>
 <br/>
-program2: 10/10<br/>
+program2: 15/18<br/>
+need to freeaddrinfo(). -1 <br/>
+server did not close BOTH sockets. -1 <br/>
+should not print "plus something I didn't understand" when all inputs are valid. -1 <br/>
 <br/>
-total:    36/36<br/>
-
-
-valgrind --tool=memcheck --leak-check=yes ./program1 ../../../instructors_2018/week11/program1_test_inputs/input1/test_data.txt 124 2 10 > result1
-
-valgrind --tool=memcheck --leak-check=yes ./program1 ../../../instructors_2018/week11/program1_test_inputs/input2/test_data.txt 99 3 4
-
-valgrind --tool=memcheck --leak-check=yes ./program1 ../../../instructors_2018/week11/program1_test_inputs/input3/test_data.txt 93 2 3 > result3
-
-valgrind --tool=memcheck --leak-check=yes ./program1 ../../../instructors_2018/week11/program1_test_inputs/input4/test_data.txt 763 2 1
-
-100 scores and 18 years, and 7 fortdays and 2 days
-
-cp ../../../instructors_2018/week11/program1_test_inputs/input4/test_data.txt failed_test.txt
-
-**UPDATE: This test file has a size larger than the claimed size in arguments. But we don't require you to handle this. So we will add back the deducted 2 points.**<br/>
+total:    27/31<br/>
 
 -----------------------------------
-TA: Laura Zha <br/> Homework 9<br/>
+TA: Laura Zha <br/> Homework 10<br/>
 -
-bi, anqi: 33/36 <br/>
-chang, ke: 32/36 <br/>
-chen, xianyin: 36/36 <br/>
-liu, tianyu: 36/36 <br/>
-jiang, can: 33/36 <br/>
-xi, zhenyuan: 34/36 <br/>
-xu, tao: 33/36 <br/>
-zhang, yiran: 36/36 <br/>
-zheng, zhilong: 34/36 <br/>
+bi, anqi: 26/31 <br/>
+chang, ke: 0/31 <br/>
+chen, xianyin: 30/31 <br/>
+liu, tianyu: 27/31 <br/>
+jiang, can: 27/31 <br/>
+xi, zhenyuan: 28/31 <br/>
+xu, tao: 29/31 <br/>
+zhang, yiran: 29/31 <br/>
+zheng, zhilong: 28/31 <br/>
 
 -----------------------------------
 // should sort by last name
