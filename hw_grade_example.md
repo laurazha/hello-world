@@ -1,28 +1,25 @@
-**Homework 10**<br/>
+**Final Project**<br/>
 <br/>
-program1: 13/13<br/>
-need to freeaddrinfo(). -1 <br/>
-server should keep open after one client is closed. -1 <br/>
+client: <br/>
 <br/>
-program2: 15/18<br/>
-need to freeaddrinfo(). -1 <br/>
-server did not close BOTH sockets. -1 <br/>
-should not print "plus something I didn't understand" when all inputs are valid. -1 <br/>
+server: <br/>
 <br/>
-total:    27/31<br/>
+code layout: <br/>
+<br/>
+total:  70/70<br/>
 
 -----------------------------------
-TA: Laura Zha <br/> Homework 10<br/>
+TA: Laura Zha <br/> Final Project <br/>
 -
-bi, anqi: 26/31 <br/>
-chang, ke: 0/31 <br/>
-chen, xianyin: 30/31 <br/>
-liu, tianyu: 27/31 <br/>
-jiang, can: 27/31 <br/>
-xi, zhenyuan: 28/31 <br/>
-xu, tao: 29/31 <br/>
-zhang, yiran: 29/31 <br/>
-zheng, zhilong: 28/31 <br/>
+bi, anqi: 0/70 <br/>
+chang, ke: 0/70 <br/>
+chen, xianyin: 0/70 <br/>
+liu, tianyu: 0/70 <br/>
+jiang, can: 0/70 <br/>
+xi, zhenyuan: 0/70 <br/>
+xu, tao: 0/70 <br/>
+zhang, yiran: 0/70 <br/>
+zheng, zhilong: 0/70 <br/>
 
 -----------------------------------
 // should sort by last name
